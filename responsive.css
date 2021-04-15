@@ -1,12 +1,6 @@
 /*TABLET RESPONSIVE*/
 @media screen and (max-width: 768px) {
 
-body{
-  width: 100%;
-  background: url(img/1.jpg) fixed;
-  background-size: 100% 100%;
-} 
-
   nav{
     z-index: 5;
   }
@@ -63,12 +57,6 @@ body{
 }
 /*ANDROID RESPONSIVE*/
 @media screen and (max-width: 576px) {
-
-body{
-  width: 100%;
-  background: url(img/1.jpg) fixed;
-  background-size: 100% 100%;
-} 
 
   /*Hamburger Menu*/
 .menuu-toggle{
